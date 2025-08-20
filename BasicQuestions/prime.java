@@ -1,3 +1,4 @@
+package BasicQuestions;
 public class prime {
 
     //IsPrime Function

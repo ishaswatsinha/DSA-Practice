@@ -1,3 +1,4 @@
+package BasicQuestions;
 import java.util.*;
 public class StrQue {
     // Question1: Count how many times lowercase vowels occurred in a String entered by the user.

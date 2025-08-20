@@ -1,3 +1,4 @@
+package BasicSearch;
 public class binarySearch {
 
     public static int BinSearch(int Numbers[],int target){

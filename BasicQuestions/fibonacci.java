@@ -1,3 +1,4 @@
+package BasicQuestions;
 public class fibonacci {
 
     public static void fibo(int n){

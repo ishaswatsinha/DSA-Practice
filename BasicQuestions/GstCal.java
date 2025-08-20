@@ -1,3 +1,4 @@
+package BasicQuestions;
 import java.util.Scanner;
 
 public class GstCal {
@@ -9,7 +10,7 @@ public class GstCal {
         float b = sc.nextFloat();
         System.out.println("Enter 3rd Item Price");
         float c = sc.nextFloat();
-
+        sc.close();
         float Price = a + b + c;
         float gst = Price * 0.18f;
         float TotalPrice = Price + gst;

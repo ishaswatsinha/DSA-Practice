@@ -1,3 +1,4 @@
+package Recursion;
 public class factRecurssion {
 
     public static int fact(int n){

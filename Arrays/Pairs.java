@@ -1,3 +1,4 @@
+package Arrays;
 public class Pairs {
 
     public static void Pair(int numbers[]){
